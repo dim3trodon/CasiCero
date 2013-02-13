@@ -1,3 +1,9 @@
+/* Rodrigo Valladares Santana L1 
+ * Programación de Aplicaciones Interactivas Práctica 3
+ * 
+ * Clase que compara dos números en punto flotante y devuelve true si son iguales.
+ * 
+ * */
 package casiCero;
 
 public class CasiCero {
